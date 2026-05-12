@@ -12,7 +12,7 @@
 - [3.1 Model cleanup and redundant constraints](03-single-row/3.1-model-cleanup.md)
 - [3.2 Bound strengthening](03-single-row/3.2-bound-strengthening.md)
 - [3.3 Coefficient strengthening](03-single-row/3.3-coefficient-strengthening.md)
-- [3.4 Chvátal–Gomory strengthening](03-single-row/3.4-chvatal-gomory.md)
+- [3.4 Chvátal–Gomory strengthening]()
 - [3.5 Euclidean and modular inverse reduction](03-single-row/3.5-euclidean-modular-inverse.md)
 - [3.6 Simple probing on a single equation]()
 - [3.7 Special ordered set reductions]()
@@ -66,6 +66,7 @@
 # Unreviewed drafts
 
 - [About these drafts](drafts/README.md)
+- [3.4 Chvátal–Gomory strengthening](03-single-row/3.4-chvatal-gomory.md)
 - [3.6 Simple probing on a single equation](03-single-row/3.6-simple-probing.md)
 - [3.7 Special ordered set reductions](03-single-row/3.7-sos-reductions.md)
 - [4.1 Removal of fixed variables](04-single-column/4.1-fixed-variables.md)
