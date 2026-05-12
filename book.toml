@@ -1,0 +1,19 @@
+[book]
+title = "Presolve Reductions in MIP — Worked Examples"
+authors = ["Mohammed Ghannam"]
+description = "Tiny LP/MIP instances illustrating each presolve technique from Achterberg, Bixby, Gu, Rothberg, Weninger (2016)."
+language = "en"
+src = "src"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/mmghannam/presolve-examples"
+edit-url-template = "https://github.com/mmghannam/presolve-examples/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[preprocessor.katex]
+after = ["links"]
