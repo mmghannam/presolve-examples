@@ -16,7 +16,7 @@ jobs:
       - name: Install mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-          mdbook-version: latest
+          mdbook-version: '0.4.48'
 
       - name: Install mdbook-katex
         run: cargo install mdbook-katex --locked
