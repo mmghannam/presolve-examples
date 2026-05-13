@@ -1,5 +1,7 @@
 # Presolve Reductions in MIP — Worked Examples
 
+**Read the book online:** <https://mmghannam.github.io/presolve-examples/>
+
 A repository of small, hand-crafted LP/MIP instances illustrating each presolve technique described in:
 
 > Tobias Achterberg, Robert E. Bixby, Zonghao Gu, Edward Rothberg, Dieter Weninger.
@@ -32,7 +34,7 @@ mdbook serve --open
 
 ## Deploy
 
-`.github/workflows/publish.yml` builds the book on every push to `main` and pushes the result to the `gh-pages` branch. Enable Pages on that branch in the repo settings.
+`.github/workflows/publish.yml` builds the book on every push to `main` and deploys it to GitHub Pages using `actions/deploy-pages`. The Pages source is configured to "GitHub Actions" in the repo settings.
 
 ## Contributing
 
