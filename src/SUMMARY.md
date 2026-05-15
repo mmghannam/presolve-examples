@@ -20,8 +20,8 @@
 # Reductions for individual variables
 
 - [Overview](04-single-column/README.md)
-- [4.1 Removal of fixed variables]()
-- [4.2 Rounding bounds of integer variables]()
+- [4.1 Removal of fixed variables](04-single-column/4.1-fixed-variables.md)
+- [4.2 Rounding bounds of integer variables](04-single-column/4.2-rounding-integer-bounds.md)
 - [4.3 Strengthen semi-continuous and semi-integer bounds]()
 - [4.4 Dual fixing, substitution, and bound strengthening]()
 - [4.5 Substitute implied free variables](04-single-column/4.5-implied-free-substitution.md)
@@ -69,8 +69,6 @@
 - [3.4 Chvátal–Gomory strengthening](03-single-row/3.4-chvatal-gomory.md)
 - [3.6 Simple probing on a single equation](03-single-row/3.6-simple-probing.md)
 - [3.7 Special ordered set reductions](03-single-row/3.7-sos-reductions.md)
-- [4.1 Removal of fixed variables](04-single-column/4.1-fixed-variables.md)
-- [4.2 Rounding bounds of integer variables](04-single-column/4.2-rounding-integer-bounds.md)
 - [4.3 Strengthen semi-continuous and semi-integer bounds](04-single-column/4.3-semi-continuous-bounds.md)
 - [4.4 Dual fixing, substitution, and bound strengthening](04-single-column/4.4-dual-fixing.md)
 - [5.1 Redundancy detection](05-multi-row/5.1-redundancy-detection.md)
